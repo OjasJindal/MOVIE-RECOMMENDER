@@ -1,4 +1,3 @@
-
 🎬 Movie Recommender System
 
 A machine learning-based Movie Recommendation System that uses K-Nearest Neighbors (KNN) and clustering techniques to suggest similar movies to users based on their preferences or selected titles.
